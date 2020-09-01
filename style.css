@@ -1,0 +1,41 @@
+p {
+  text-align: center;
+  font-weight: bold;
+}
+
+.banner {
+  height: 5rem;
+}
+
+.text-banner {
+  padding-top: 2rem;
+}
+
+.content {
+  height: 13rem;
+}
+
+.text-content {
+  padding-top: 6rem;
+}
+
+.brown {
+  background-color: rgb(91, 73, 60);
+  color: white;
+}
+
+.orange {
+  background-color: rgb(249, 154, 62);
+}
+
+.red {
+  background-color: rgb(197, 105, 122);
+}
+
+.blue {
+  background-color: rgb(0, 162, 182);
+}
+
+.light-brown {
+  background-color: rgb(195, 145, 130);
+}
